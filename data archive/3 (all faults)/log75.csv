@@ -1,0 +1,3 @@
+robot4,robot2,robot8,drone6,drone9,drone1
+(robot4,drone6),(robot4,drone9),(robot4,drone1),(robot2,drone6),(robot2,drone9),(robot2,drone1),(robot8,drone6),(robot8,drone9),(robot8,drone1)
+38.0

@@ -1,0 +1,1 @@
+interaction (5,5), (6,6): delay 10 (others 1)

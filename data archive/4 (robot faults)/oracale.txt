@@ -1,0 +1,1 @@
+robot 0, 1: resqueRate 0.5 (others 1)
