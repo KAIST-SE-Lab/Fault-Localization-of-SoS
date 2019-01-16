@@ -93,14 +93,12 @@ for log in logs:
         if entity in suspiciousness_dict:
             suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
             suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
-            total_passed = total_passed + result
-            total_failed = total_failed + 100 - result
         else:
             suspiciousness_dict[entity] = [0, 0, 0]
             suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
             suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
-            total_passed = total_passed + result
-            total_failed = total_failed + 100 - result
+        total_passed = total_passed + result
+        total_failed = total_failed + 100 - result
 
 print("passed: ", total_passed)
 print("failed: ", total_failed)
