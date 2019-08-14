@@ -3,7 +3,7 @@ import csv
 #import pandas as pd
 
 #key = ('robot0/drone0', 'robot9/drone9') #오류가 삽입된 Interactions id
-key =('robot1', 'robot4') # 오류가 삽입된 Robots or Drones id
+#key =('robot1', 'robot4') # 오류가 삽입된 Robots or Drones id
 #key=('drone1', 'drone5')
 
 type = ["Robot", "Drone", "Interaction"]
