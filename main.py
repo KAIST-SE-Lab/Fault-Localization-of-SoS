@@ -110,7 +110,7 @@ for i in range(0,3):
             #total_passed = total_passed + result # 용준이가 제안한 방법
             #total_failed = total_failed + 100 - result
             print(thresholds[type[i] + " " + index[j] + " 1Q"])
-            if result < thresholds[type[i] + " " + index[j] + " 1Q"]: # 나머지 기법들
+            if result <= thresholds[type[i] + " " + index[j] + " 1Q"]: # 나머지 기법들
                 total_failed = total_failed + 1
             else:
                 total_passed = total_passed + 1
@@ -129,7 +129,7 @@ for i in range(0,3):
                 # 나머지 기법들 할때 result 값만 특정 값들, 1Q, 2Q, 3Q, Mean, Clustering 값, 입력해서 각각 실행
                 if entity not in suspiciousness_dict:
                     suspiciousness_dict[entity] = [0, 0, 0]
-                if result < thresholds[type[i] + " " + index[j] + " 1Q"]: #Regarded as Failure
+                if result <= thresholds[type[i] + " " + index[j] + " 1Q"]: #Regarded as Failure
                     suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 1
                     total_failed = total_failed + 1
                 else: #Regarded as Success
