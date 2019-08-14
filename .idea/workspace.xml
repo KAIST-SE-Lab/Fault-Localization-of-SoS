@@ -1,7 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a107aedf-6684-4160-b03b-65262ebbdd22" name="Default" comment="" />
+    <list default="true" id="a107aedf-6684-4160-b03b-65262ebbdd22" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log0.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log1.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log10.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log10.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log11.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log11.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log12.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log13.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log14.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log14.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log15.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log15.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log16.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log16.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log17.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log17.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log18.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log18.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log19.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log19.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log2.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log20.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log20.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log21.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log21.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log22.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log22.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log23.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log23.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log24.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log24.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log25.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log25.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log26.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log26.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log27.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log27.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log28.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log28.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log29.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log29.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log3.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log30.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log30.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log31.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log31.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log32.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log32.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log33.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log33.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log34.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log34.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log35.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log35.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log36.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log36.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log37.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log37.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log38.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log38.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log39.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log39.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log4.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log40.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log40.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log41.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log41.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log42.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log42.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log43.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log43.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log44.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log44.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log45.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log45.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log46.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log46.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log47.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log47.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log48.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log48.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log49.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log49.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log5.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log50.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log51.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log51.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log52.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log52.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log53.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log53.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log54.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log54.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log55.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log55.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log56.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log56.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log57.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log57.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log58.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log58.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log59.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log59.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log6.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log60.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log60.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log61.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log61.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log62.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log62.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log63.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log63.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log64.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log64.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log65.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log65.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log66.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log66.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log67.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log67.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log68.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log68.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log69.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log69.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log7.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log70.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log70.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log71.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log71.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log72.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log72.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log73.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log73.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log74.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log74.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log75.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log75.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log76.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log76.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log77.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log77.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log78.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log78.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log79.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log79.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log8.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log80.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log80.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log81.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log81.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log82.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log82.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log83.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log83.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log84.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log84.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log85.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log85.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log86.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log86.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log87.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log87.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log88.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log88.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log89.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log89.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log9.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log9.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log90.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log90.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log91.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log91.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log92.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log92.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log93.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log93.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log94.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log94.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log95.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log95.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log96.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log96.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log97.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log97.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log98.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log98.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/3 (all faults)/log99.csv" afterPath="$PROJECT_DIR$/data archive/3 (all faults)/log99.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log0.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log1.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log10.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log10.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log11.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log11.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log12.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log13.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log14.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log14.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log15.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log15.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log16.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log16.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log17.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log17.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log18.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log18.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log19.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log19.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log2.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log20.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log20.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log21.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log21.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log22.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log22.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log23.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log23.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log24.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log24.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log25.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log25.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log26.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log26.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log27.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log27.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log28.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log28.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log29.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log29.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log3.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log30.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log30.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log31.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log31.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log32.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log32.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log33.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log33.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log34.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log34.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log35.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log35.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log36.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log36.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log37.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log37.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log38.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log38.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log39.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log39.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log4.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log40.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log40.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log41.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log41.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log42.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log42.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log43.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log43.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log44.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log44.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log45.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log45.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log46.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log46.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log47.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log47.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log48.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log48.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log49.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log49.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log5.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log50.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log51.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log51.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log52.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log52.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log53.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log53.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log54.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log54.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log55.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log55.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log56.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log56.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log57.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log57.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log58.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log58.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log59.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log59.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log6.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log60.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log60.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log61.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log61.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log62.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log62.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log63.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log63.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log64.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log64.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log65.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log65.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log66.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log66.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log67.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log67.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log68.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log68.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log69.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log69.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log7.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log70.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log70.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log71.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log71.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log72.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log72.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log73.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log73.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log74.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log74.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log75.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log75.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log76.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log76.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log77.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log77.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log78.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log78.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log79.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log79.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log8.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log80.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log80.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log81.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log81.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log82.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log82.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log83.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log83.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log84.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log84.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log85.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log85.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log86.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log86.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log87.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log87.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log88.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log88.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log89.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log89.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log9.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log9.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log90.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log90.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log91.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log91.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log92.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log92.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log93.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log93.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log94.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log94.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log95.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log95.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log96.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log96.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log97.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log97.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log98.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log98.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data archive/6 (interaction faults)/log99.csv" afterPath="$PROJECT_DIR$/data archive/6 (interaction faults)/log99.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +213,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Fault_Localization_of_SoS$main.coverage" NAME="main Coverage Results" MODIFIED="1547440703143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fault_Localization_of_SoS$main.coverage" NAME="main Coverage Results" MODIFIED="1547620024368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1547440002962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code$LogGenerator.coverage" NAME="LogGenerator Coverage Results" MODIFIED="1546424915207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -19,11 +222,31 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="109" column="40" lean-forward="false" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+            <state relative-caret-position="456">
+              <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log1.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data archive/4 (robot faults)/log1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogGenerator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +280,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-153" />
     <option name="y" value="-24" />
     <option name="width" value="1938" />
@@ -85,6 +308,11 @@
             <path>
               <item name="Fault-Localization-of-SoS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fault-Localization-of-SoS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fault-Localization-of-SoS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fault-Localization-of-SoS" type="462c0819:PsiDirectoryNode" />
+              <item name="data archive" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,19 +400,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1178" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26119402" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29162657" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2797619" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -201,11 +429,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7567308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29162657" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25586355" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -227,7 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/log0.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log10.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log17.csv" />
     <entry file="file://$PROJECT_DIR$/main.py">
@@ -293,13 +520,6 @@
     <entry file="file://$PROJECT_DIR$/logs/log16csv" />
     <entry file="file://$PROJECT_DIR$/logs/log9csv" />
     <entry file="file://$PROJECT_DIR$/logs/log17.csv" />
-    <entry file="file://$PROJECT_DIR$/LogGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/log7.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log21.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log29.csv" />
@@ -322,10 +542,26 @@
     <entry file="file://$PROJECT_DIR$/logs/log2.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log10.csv" />
     <entry file="file://$PROJECT_DIR$/logs/log14.csv" />
+    <entry file="file://$PROJECT_DIR$/LogGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data archive/4 (robot faults)/log1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="109" column="40" lean-forward="false" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+        <state relative-caret-position="456">
+          <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
