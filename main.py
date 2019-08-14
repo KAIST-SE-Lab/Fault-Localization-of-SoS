@@ -61,6 +61,17 @@ def read_log_SMC(log_file):
     # print(entities)
     return result//1, entities
 
+thresholds = {'Robot 80 1Q': 16, 'Robot 80 2Q': 32, 'Robot 80 3Q': 77, 'Robot 80 Mean': 45.59, 'Robot 80 Cl': 39,
+              'Robot 100 1Q': 3, 'Robot 100 2Q': 10, 'Robot 100 3Q': 49, 'Robot 100 Mean': 25.73, 'Robot 100 Cl': 27,
+              'Robot 120 1Q': 1, 'Robot 120 2Q': 2, 'Robot 120 3Q': 15, 'Robot 120 Mean': 8.38, 'Robot 120 Cl': 11,
+              'Drone 80 1Q': 71, 'Drone 80 2Q': 78, 'Drone 80 3Q': 85, 'Drone 80 Mean': 77, 'Drone 80 Cl': 72,
+              'Drone 100 1Q': 34, 'Drone 100 2Q': 42, 'Drone 100 3Q': 49, 'Drone 100 Mean': 41.72, 'Drone 100 Cl': 40,
+              'Drone 120 1Q': 9, 'Drone 120 2Q': 13, 'Drone 120 3Q': 19, 'Drone 120 Mean': 14.12, 'Drone 120 Cl': 16,
+              'Interaction 80 1Q': 66, 'Interaction 80 2Q': 73, 'Interaction 80 3Q': 80, 'Interaction 80 Mean': 70.83, 'Interaction 80 Cl': 60,
+              'Interaction 100 1Q': 45, 'Interaction 100 2Q': 52, 'Interaction 100 3Q': 60, 'Interaction 100 Mean': 50.14, 'Interaction 100 Cl': 45,
+              'Interaction 120 1Q': 18, 'Interaction 120 2Q': 24, 'Interaction 120 3Q': 30, 'Interaction 120 Mean': 23.19, 'Interaction 120 Cl': 23,
+              }
+
 total_passed = 0
 total_failed = 0
 type=["Robot", "Drone", "Interaction"]
@@ -96,33 +107,34 @@ for i in range(0,3):
             if log != "configuration.csv":
                 result, entities = read_log_SMC(type[i] + " fault " + index[j] + "\\" + log)
                 #results.append(result)
-            total_passed = total_passed + result # 용준이가 제안한 방법
-            total_failed = total_failed + 100 - result
-            '''if result < 3.0: # 나머지 기법들
+            #total_passed = total_passed + result # 용준이가 제안한 방법
+            #total_failed = total_failed + 100 - result
+            print(thresholds[type[i] + " " + index[j] + " 1Q"])
+            if result < thresholds[type[i] + " " + index[j] + " 1Q"]: # 나머지 기법들
                 total_failed = total_failed + 1
             else:
-                total_passed = total_passed + 1'''
+                total_passed = total_passed + 1
             for entity in entities:
                 #if entity == 'robot0,drone0' or entity == 'robot9,drone9':
                 #    print(result)
                 # 용준이가 제안한 방법 (논문에서는 1번 기법)
-                if entity in suspiciousness_dict:
-                    suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
-                    suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
-                else:
-                    suspiciousness_dict[entity] = [0, 0, 0]
-                    suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
-                    suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
+                #if entity in suspiciousness_dict:
+                #    suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
+                #    suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
+                #else:
+                #    suspiciousness_dict[entity] = [0, 0, 0]
+                #    suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + result
+                #    suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 100 - result
 
                 # 나머지 기법들 할때 result 값만 특정 값들, 1Q, 2Q, 3Q, Mean, Clustering 값, 입력해서 각각 실행
-                '''if entity not in suspiciousness_dict:
+                if entity not in suspiciousness_dict:
                     suspiciousness_dict[entity] = [0, 0, 0]
-                if result < 3.0: #Regarded as Failure
+                if result < thresholds[type[i] + " " + index[j] + " 1Q"]: #Regarded as Failure
                     suspiciousness_dict[entity][1] = suspiciousness_dict[entity][1] + 1
                     total_failed = total_failed + 1
                 else: #Regarded as Success
                     suspiciousness_dict[entity][0] = suspiciousness_dict[entity][0] + 1
-                    total_passed = total_passed + 1'''
+                    total_passed = total_passed + 1
 
             file_count += 1
             if file_count % 100 == 0:
